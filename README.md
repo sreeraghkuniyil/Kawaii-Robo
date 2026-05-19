@@ -212,41 +212,36 @@ KawaiiRobo was created as an experimental embedded personality platform focused 
 ---
 
 ---
+<table align="center">
+<tr>
 
-## Images
+<td align="center">
+<img src="imgs/KawaiRobo.1.jpeg" width="180"><br>
+Main Robot
+</td>
 
-### KawaiiRobo Showcase
+<td align="center">
+<img src="imgs/KawaiRobo.2.jpeg" width="180"><br>
+OLED Expressions
+</td>
 
-| Preview | Description |
-|---|---|
-| ![](imgs/KawaiRobo.1.jpeg) | Main front view of KawaiiRobo |
-| ![](imgs/KawaiRobo.2.jpeg) | OLED facial animation demo |
-| ![](imgs/KawaiRobo.3.jpeg) | Web UI interaction preview |
-| ![](imgs/KawaiRobo.4.jpeg) | Hardware and assembly view |
-| ![](imgs/kawaiirobo.jpeg) | Final project showcase |
+<td align="center">
+<img src="imgs/KawaiRobo.3.jpeg" width="180"><br>
+Web Dashboard
+</td>
 
----
+<td align="center">
+<img src="imgs/KawaiRobo.4.jpeg" width="180"><br>
+Hardware Setup
+</td>
 
-### Gallery
+<td align="center">
+<img src="imgs/kawaiirobo.jpeg" width="180"><br>
+Final Build
+</td>
 
-#### Main Robot
-![KawaiiRobo](imgs/KawaiRobo.1.jpeg)
-
-#### OLED Expressions
-![OLED Demo](imgs/KawaiRobo.2.jpeg)
-
-#### Web Dashboard
-![Web UI](imgs/KawaiRobo.3.jpeg)
-
-#### Hardware Setup
-![Hardware](imgs/KawaiRobo.4.jpeg)
-
-#### Final Build
-![Final](imgs/kawaiirobo.jpeg)
-
----
-
----
+</tr>
+</table>
 
 ## License
 
