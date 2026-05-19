@@ -210,34 +210,27 @@ KawaiiRobo was created as an experimental embedded personality platform focused 
 * Multi-device communication
 
 ---
-
----
 <table align="center">
 <tr>
 
 <td align="center">
-<img src="imgs/KawaiRobo.1.jpeg" width="180"><br>
-Main Robot
+<img src="imgs/KawaiRobo.1.jpeg" width="180">
 </td>
 
 <td align="center">
-<img src="imgs/KawaiRobo.2.jpeg" width="180"><br>
-OLED Expressions
+<img src="imgs/KawaiRobo.2.jpeg" width="180">
 </td>
 
 <td align="center">
-<img src="imgs/KawaiRobo.3.jpeg" width="180"><br>
-Web Dashboard
+<img src="imgs/KawaiRobo.3.jpeg" width="180">
 </td>
 
 <td align="center">
-<img src="imgs/KawaiRobo.4.jpeg" width="180"><br>
-Hardware Setup
+<img src="imgs/KawaiRobo.4.jpeg" width="180">
 </td>
 
 <td align="center">
-<img src="imgs/kawaiirobo.jpeg" width="180"><br>
-Final Build
+<img src="imgs/kawaiirobo.jpeg" width="180">
 </td>
 
 </tr>
