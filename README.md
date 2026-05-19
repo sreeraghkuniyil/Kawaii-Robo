@@ -1,7 +1,9 @@
 # KawaiiRobo Web Edition
 
 ### ESP32-C3 Super Mini Interactive OLED Robot
-![](imgs/KawaiRobo.1.jpeg)
+<p align="center">
+  <img src="imgs/KawaiRobo.1.jpeg" width="250">
+</p>
 
 
 KawaiiRobo is an expressive interactive robot built on the ESP32-C3 Super Mini using a custom OLED animation framework and a non-blocking multitasking architecture. The project combines animated facial expressions, touch gestures, haptic feedback, and a fully asynchronous web interface to create a responsive robotic personality system on compact embedded hardware.
