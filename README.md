@@ -161,19 +161,16 @@ Install using Arduino Library Manager:
 * AsyncTCP
 
 ---
+---
+
+## Custom Library
+
+This project uses my custom OLED animation framework:
+
+👉 OLEDFace Library  
+https://github.com/sreeraghkuniyil/OLED_FACE
 
 ## Folder Structure
-
-```txt id="jlsvgh"
-KawaiiRobo/
-│
-├── KawaiiRobo_Web.ino
-├── OLEDFace.h
-├── OLEDFace.cpp
-├── images/
-├── docs/
-└── README.md
-```
 
 ---
 
